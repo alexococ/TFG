@@ -1,9 +1,0 @@
---text-color: #ffffff
-
---bg-color1: #86377b
-
---bg-color2:  #27273c
-
---main-color: #6157ff
-
---secondary-color: #ee49fd
